@@ -58,7 +58,7 @@ Main Body Copy Styling
 figcaption.harrypotter {
   color: darkred;
   font-style: italic;
-  font-size: 12px;
+  font-size: 0.75rem;
   clear: both;
   max-width: 400px;
   max-height: 400px;
@@ -71,7 +71,7 @@ figcaption.harrypotter {
 
 .body-title{
   text-align: left;
-  font-size: 18px;
+  font-size: 1.125rem;
   margin-bottom: 1%;
 }
 
@@ -98,11 +98,11 @@ figcaption.harrypotter {
 figcaption.danielradcliffe {
   color: darkred;
   font-style: italic;
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 
 p{
-  font-size: 14px;
+  font-size: 0.875rem;
   max-width: 500px;
   margin-bottom: 1%;
 }
@@ -164,7 +164,7 @@ h1{
 .Hedwig figcaption{
     color: white;
     font-style: italic;
-    font-size: 12px;
+    font-size: 0.75px;
     text-align: center;
 }
 
